@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Shubham7819)
 
+<a href="https://github.com/Shubham7819?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham7819&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
+
 <!--
 **Shubham7819/Shubham7819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
